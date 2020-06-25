@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder", "FileFinder\FileFinder.csproj", "{751DEF95-DFB1-4C9D-AC3C-FAA2E6561ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLCommentExtractor", "SQLCommentExtractor\SQLCommentExtractor.csproj", "{AF6CEB1A-D2DE-46E5-8C52-D05C6DE2DCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751DEF95-DFB1-4C9D-AC3C-FAA2E6561ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751DEF95-DFB1-4C9D-AC3C-FAA2E6561ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751DEF95-DFB1-4C9D-AC3C-FAA2E6561ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751DEF95-DFB1-4C9D-AC3C-FAA2E6561ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6CEB1A-D2DE-46E5-8C52-D05C6DE2DCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6CEB1A-D2DE-46E5-8C52-D05C6DE2DCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6CEB1A-D2DE-46E5-8C52-D05C6DE2DCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6CEB1A-D2DE-46E5-8C52-D05C6DE2DCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF5EA1A-A3FF-4F9D-920C-CC2FCDC48A3D}
+	EndGlobalSection
+EndGlobal

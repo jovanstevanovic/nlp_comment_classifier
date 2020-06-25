@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1de8d698-9437-4c3e-abcc-1bcfac6cbc56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1baoU6n5dZG1mUmETto8ZByUfqh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/raw_data" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jovan\PycharmProjects\ProjectML\raw_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jovan\PycharmProjects\ProjectML\raw_data" />
+      <recent name="C:\Users\jovan\PycharmProjects\ProjectML" />
+      <recent name="C:\Users\jovan\PycharmProjects\ProjectML\pretprocessing" />
+      <recent name="C:\Users\jovan\PycharmProjects\ProjectML\classifiers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="SVC" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jovan\PycharmProjects\ProjectML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jovan\PycharmProjects\ProjectML\classifiers\SVC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bernoulli_NB" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jovan\PycharmProjects\ProjectML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jovan\PycharmProjects\ProjectML\classifiers\bernoulli_NB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jovan\PycharmProjects\ProjectML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jovan\PycharmProjects\ProjectML\classifiers\logistic_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multinomial_NB" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jovan\PycharmProjects\ProjectML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jovan\PycharmProjects\ProjectML\classifiers\multinomial_NB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jovan\PycharmProjects\ProjectML\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jovan\PycharmProjects\ProjectML\pretprocessing\preprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SVC" />
+      <item itemvalue="Python.bernoulli_NB" />
+      <item itemvalue="Python.logistic_regression" />
+      <item itemvalue="Python.multinomial_NB" />
+      <item itemvalue="Python.preprocessing" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de8d698-9437-4c3e-abcc-1bcfac6cbc56" name="Default Changelist" comment="" />
+      <created>1588879577959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588879577959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588887173529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588887173529" />
+    <state x="527" y="219" width="488" height="533" key="#xdebugger.evaluate" timestamp="1592673553497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="219" width="488" height="533" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1592673553497" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1588887171536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588887171536" />
+    <state width="1515" height="526" key="GridCell.Tab.0.bottom" timestamp="1592841619096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="526" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592841619096" />
+    <state width="1515" height="526" key="GridCell.Tab.0.center" timestamp="1592841619096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="526" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592841619096" />
+    <state width="1515" height="526" key="GridCell.Tab.0.left" timestamp="1592841619096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="526" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592841619096" />
+    <state width="1515" height="526" key="GridCell.Tab.0.right" timestamp="1592841619096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="526" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592841619096" />
+    <state width="1515" height="222" key="GridCell.Tab.1.bottom" timestamp="1592757836830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592757836830" />
+    <state width="1515" height="222" key="GridCell.Tab.1.center" timestamp="1592757836830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592757836830" />
+    <state width="1515" height="222" key="GridCell.Tab.1.left" timestamp="1592757836830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592757836830" />
+    <state width="1515" height="222" key="GridCell.Tab.1.right" timestamp="1592757836830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592757836830" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1592658036090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592658036090" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1592502416023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1592502416023" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592773343241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592773343241" />
+    <state x="341" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589041092097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1589041092097" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/preprocessing.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

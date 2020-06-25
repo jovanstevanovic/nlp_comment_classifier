@@ -1,0 +1,8 @@
+Functional-Inline
+Functional-Method
+Functional-Module
+ToDo
+Notice
+General
+Code
+IDE
