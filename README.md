@@ -1,2 +1,2 @@
 # nlp_comment_classifier
- NLP project for classifying comments.
+ NLP project for classifying code comments.
